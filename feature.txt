@@ -1,2 +1,5 @@
 Файл у гілці testing
 Hello world!
+Зміни в branch1
+Зміни в branch2
+Changes in branch2
